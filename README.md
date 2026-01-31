@@ -1,2 +1,3 @@
 # Python-Questions-Practice
-anuskaghosh17/Python--Questions
+
+This repository is exclusive for showcasing our progress to the University
